@@ -1,0 +1,13 @@
+float32 voltage
+float32 current
+float32 ax
+float32 ay
+float32 az
+float32 gx
+float32 gy
+float32 gz
+uint8 mode
+uint8 direction
+uint8 speed
+bool valid
+float32 distance
